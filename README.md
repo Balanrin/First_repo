@@ -1,3 +1,3 @@
-# First_repo
-Convert a number to binary.
-Beginner work. Main goal : discover Github and make a basic contribution.
+# Binaries
+Convert a number from decimal to binary or inverse.
+Beginner work. Main goal : discover Github and make a first commit.
